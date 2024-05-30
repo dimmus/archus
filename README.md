@@ -9,9 +9,9 @@ The scope of the project to only do minimal installs with personal configuration
 Single command quicklaunch
 
 ```
-bash <(curl -L dev.iritur.com/archus)
+bash <(curl -L https://raw.githubusercontent.com/dimmus/archus/master/scripts/curl-install.sh)
 ```
-<!-- bash <(curl -L https://raw.githubusercontent.com/dimmus/archus/master/scripts/curl-install.sh) -->
+<!-- bash <(curl -L dev.iritur.com/archus) -->
 
 Below shown the steps I do to install and configure a fully-functional Arch Linux installation containing a desktop environment, all the support packages (network, bluetooth, audio, printers, etc.), along with all my preferred applications and utilities. The shell scripts in this repo allow the entire process to be automated.
 
