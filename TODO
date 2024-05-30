@@ -1,0 +1,5 @@
+- Add themes data:
+  ./themes
+
+- Add themes list to 'function select_theme()':
+  ./install.sh:50

@@ -1,0 +1,7 @@
+enlightenment-git
+terminology-git
+--END OF MINIMAL INSTALL--
+rage-git
+code-insiders
+fastfeatch
+btop

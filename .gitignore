@@ -1,0 +1,5 @@
+install.conf
+installlog.txt
+configs/setup.conf
+# keep logs out
+configs/*.log
